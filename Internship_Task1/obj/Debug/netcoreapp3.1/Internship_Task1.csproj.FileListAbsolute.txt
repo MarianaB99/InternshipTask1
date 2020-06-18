@@ -1,0 +1,9 @@
+C:\Users\Mariana Bannoura\source\repos\Internship_Task1\Internship_Task1\bin\Debug\netcoreapp3.1\Internship_Task1.deps.json
+C:\Users\Mariana Bannoura\source\repos\Internship_Task1\Internship_Task1\bin\Debug\netcoreapp3.1\Internship_Task1.dll
+C:\Users\Mariana Bannoura\source\repos\Internship_Task1\Internship_Task1\bin\Debug\netcoreapp3.1\Internship_Task1.pdb
+C:\Users\Mariana Bannoura\source\repos\Internship_Task1\Internship_Task1\obj\Debug\netcoreapp3.1\Internship_Task1.csprojAssemblyReference.cache
+C:\Users\Mariana Bannoura\source\repos\Internship_Task1\Internship_Task1\obj\Debug\netcoreapp3.1\Internship_Task1.AssemblyInfoInputs.cache
+C:\Users\Mariana Bannoura\source\repos\Internship_Task1\Internship_Task1\obj\Debug\netcoreapp3.1\Internship_Task1.AssemblyInfo.cs
+C:\Users\Mariana Bannoura\source\repos\Internship_Task1\Internship_Task1\obj\Debug\netcoreapp3.1\Internship_Task1.dll
+C:\Users\Mariana Bannoura\source\repos\Internship_Task1\Internship_Task1\obj\Debug\netcoreapp3.1\Internship_Task1.pdb
+C:\Users\Mariana Bannoura\source\repos\Internship_Task1\Internship_Task1\obj\Debug\netcoreapp3.1\Internship_Task1.csproj.CoreCompileInputs.cache
